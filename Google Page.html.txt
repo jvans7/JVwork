@@ -1,0 +1,43 @@
+<DOCTYPE <!DOCTYPE html>
+<html lang="en">
+<head>
+     <link rel="stylesheet" type="text/css" href="JVgoogle.css">
+	<title>My Google</title>
+</head>
+<body>
+	<div class="nav">
+		<ul>
+			<li>Jevaughn</li>
+			<li>Gmail</li>
+			<li>Images</li>
+			<li><img class="GoogleApp" src="http://3.bp.blogspot.com/-3NAqBu3H9G0/U49ykkWOULI/AAAAAAAACes/mgRUdEP9yws/s1600/Application+icon+android.png"></li>
+			<li><img class="Notification" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFszb4OA-Yfznpoimn_u45xqISg2gZwXxyikvO2cZ_HX4hDlbrOFRMsw"></li>
+			<li>User</li>
+		</ul>
+	</div>
+	<div class="GoogleLogo">
+		<img src="https://www.google.com/logos/doodles/2016/pandit-ravi-shankars-96th-birthday-6265541272535040-hp.jpg">
+	</div>
+	<div class="SearchBox">
+		<input type="text" class="sbox"></input>
+	</div>
+	<div class="buttons">
+		<button class="btn">Google Search</button>
+		<button class="btn">I'm Feeling Lucky</button>
+	</div>
+	<div class="footer-left">
+		<ul>
+			<li>Advertising</li>
+			<li>Business</li>
+			<li>About</li>
+		</ul>
+	</div>
+	<div class="footer-right">
+		<ul>
+			<li>Privacy</li>
+			<li>Terms</li>
+			<li>Settings</li>
+		</ul>
+	</div>
+</body>
+</html>
